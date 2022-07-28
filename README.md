@@ -108,3 +108,17 @@ releases][go_releases] page for more details.
 [provider_docs]: https://www.terraform.io/docs/providers/newrelic/index.html
 [contributing]: https://github.com/newrelic/terraform-provider-newrelic/blob/main/CONTRIBUTING.md
 [go_releases]: https://github.com/golang/go/wiki/Go-Release-Cycle
+
+## Community Support
+
+New Relic hosts and moderates an online forum where you can interact with New Relic employees as well as other customers to get help and share best practices.
+
+* [Issues or Enhancement Requests](../../issues) - Issues and enhancement requests can be submitted in the Issues tab of this repository. Please search for and review the existing open issues before submitting a new issue.
+* [Community discussion board](https://discuss.newrelic.com/c/build-on-new-relic/developer-toolkit) - Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub.
+
+Please do not report issues with the Terraform Provider to New Relic Global Technical Support. Instead, visit the [Explorers Hub](https://discuss.newrelic.com/c/build-on-new-relic) for troubleshooting and best-practices.
+
+## Open Source License
+
+This project is distributed under the [Apache 2 license](LICENSE).
+
